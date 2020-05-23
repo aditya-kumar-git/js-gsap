@@ -1,1 +1,1 @@
-Basis GSAP project
+Basis GSAP animation project
